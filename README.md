@@ -16,6 +16,7 @@ ls
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 221528.png>)
 
 ### 2. `pwd` Command
 
@@ -27,6 +28,7 @@ pwd
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 221535.png>)
 
 ### 3. `mkdir` Command
 
@@ -38,6 +40,8 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 221547.png>)
+
 
 ### 4. `rmdir` Command
 
@@ -49,6 +53,8 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 221633.png>)
+
 
 ### 5. `cd` Command
 
@@ -60,6 +66,7 @@ cd <directory_name>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 221814.png>)
 
 ### 6. `cat` Command
 
@@ -71,6 +78,8 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 222045.png>)
+
 
 ### 7. `cp` Command
 
@@ -82,6 +91,8 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 222145.png>)
+
 
 ### 8. `gedit` Command
 
@@ -93,6 +104,8 @@ gedit <file_name>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 223251.png>)
+
 
 ### 9. `su` Command
 
@@ -104,6 +117,8 @@ su <username>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 223343.png>)
+
 
 ### 10. `mv` Command
 
@@ -115,6 +130,8 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 223422.png>)
+
 
 ### 11. `rename` Command
 
@@ -126,6 +143,8 @@ rename 's/old-name/new-name/' <files>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 223614.png>)
+
 
 ### 12. `head` Command
 
@@ -137,6 +156,8 @@ head <file_name>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 223737.png>)
+
 
 ### 13. `tail` Command
 
@@ -148,6 +169,8 @@ tail <file_name>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 223752.png>)
+
 
 ### 14. `id` Command
 
@@ -159,6 +182,8 @@ id
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 223811.png>)
+
 
 ### 15. `grep` Command
 
@@ -170,6 +195,8 @@ command | grep <search_word>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 223958.png>)
+
 
 ### 16. `tr` Command
 
@@ -181,6 +208,8 @@ command | tr <old> <new>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 224101.png>)
+
 
 ### 17. `chmod` Command
 
@@ -192,6 +221,8 @@ chmod <options> <permissions> <file_name>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 224214.png>)
+
 
 ### 18. `tar` Command
 
@@ -203,6 +234,8 @@ tar [options] [archive-file] [files_to_archive]
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 224319.png>)
+
 
 ### 19. `chown` Command
 
@@ -214,6 +247,8 @@ chown <owner_name> <file_name>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 224719.png>)
+
 
 ### 20. `make` Command
 
@@ -225,6 +260,8 @@ make [-f makefile] [options] [targets]
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 224815.png>)
+
 
 ### 21. `ifconfig` Command
 
@@ -236,6 +273,8 @@ ifconfig [options] [interface]
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 224841.png>)
+
 
 ### 22. `chmod 777` Command
 
@@ -248,6 +287,8 @@ chmod -R 777 /path/to/file/or/folder
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 224901.png>)
+
 
 ### 23. `host` Command
 
@@ -259,6 +300,8 @@ host <domain_name> or <ip_address>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 224922.png>)
+
 
 ### 24. `gzip` Command
 
@@ -270,6 +313,8 @@ gzip <file1> <file2> <file3>...
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 224957.png>)
+
 
 ### 25. `sort` Command
 
@@ -281,6 +326,8 @@ sort <file_name>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 225009.png>)
+
 
 ### 26. `cal` Command
 
@@ -292,6 +339,8 @@ cal
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 225030.png>)
+
 
 ### 27. `clear` Command
 
@@ -303,6 +352,8 @@ clear
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 225333.png>)
+
 
 ### 28. `mail` Command
 
@@ -314,6 +365,8 @@ mail
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 225359.png>)
+
 
 ### 29. `df` Command
 
@@ -336,5 +389,8 @@ find <directory> -name <file_name>
 ```
 
 **Output:**
+![alt text](<Screenshot 2025-04-21 225448.png>)
+
 
 ## Result
+Successfully performed the series of Linux commands as specified.
