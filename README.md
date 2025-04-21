@@ -16,6 +16,7 @@ ls
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 221528.png>)
 
 ### 2. `pwd` Command
@@ -28,6 +29,7 @@ pwd
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 221535.png>)
 
 ### 3. `mkdir` Command
@@ -40,6 +42,7 @@ mkdir <directory_name>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 221547.png>)
 
 
@@ -53,6 +56,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 221633.png>)
 
 
@@ -66,6 +70,7 @@ cd <directory_name>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 221814.png>)
 
 ### 6. `cat` Command
@@ -78,6 +83,7 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 222045.png>)
 
 
@@ -91,6 +97,7 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 222145.png>)
 
 
@@ -104,6 +111,7 @@ gedit <file_name>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 223251.png>)
 
 
@@ -117,6 +125,7 @@ su <username>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 223343.png>)
 
 
@@ -130,6 +139,7 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 223422.png>)
 
 
@@ -143,6 +153,7 @@ rename 's/old-name/new-name/' <files>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 223614.png>)
 
 
@@ -156,6 +167,7 @@ head <file_name>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 223737.png>)
 
 
@@ -169,6 +181,7 @@ tail <file_name>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 223752.png>)
 
 
@@ -182,6 +195,7 @@ id
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 223811.png>)
 
 
@@ -195,6 +209,7 @@ command | grep <search_word>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 223958.png>)
 
 
@@ -208,6 +223,7 @@ command | tr <old> <new>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 224101.png>)
 
 
@@ -221,6 +237,7 @@ chmod <options> <permissions> <file_name>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 224214.png>)
 
 
@@ -234,6 +251,7 @@ tar [options] [archive-file] [files_to_archive]
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 224319.png>)
 
 
@@ -247,7 +265,8 @@ chown <owner_name> <file_name>
 ```
 
 **Output:**
-![alt text](<Screenshot 2025-04-21 224719.png>)
+
+![alt text](<Screenshot 2025-04-21 224455.png>)
 
 
 ### 20. `make` Command
@@ -260,7 +279,8 @@ make [-f makefile] [options] [targets]
 ```
 
 **Output:**
-![alt text](<Screenshot 2025-04-21 224815.png>)
+
+![alt text](<Screenshot 2025-04-21 224719.png>)
 
 
 ### 21. `ifconfig` Command
@@ -273,7 +293,8 @@ ifconfig [options] [interface]
 ```
 
 **Output:**
-![alt text](<Screenshot 2025-04-21 224841.png>)
+
+![alt text](<Screenshot 2025-04-21 224815.png>)
 
 
 ### 22. `chmod 777` Command
@@ -287,7 +308,8 @@ chmod -R 777 /path/to/file/or/folder
 ```
 
 **Output:**
-![alt text](<Screenshot 2025-04-21 224901.png>)
+
+![alt text](<Screenshot 2025-04-21 224841.png>)
 
 
 ### 23. `host` Command
@@ -300,7 +322,8 @@ host <domain_name> or <ip_address>
 ```
 
 **Output:**
-![alt text](<Screenshot 2025-04-21 224922.png>)
+
+![alt text](<Screenshot 2025-04-21 224901.png>)
 
 
 ### 24. `gzip` Command
@@ -313,7 +336,8 @@ gzip <file1> <file2> <file3>...
 ```
 
 **Output:**
-![alt text](<Screenshot 2025-04-21 224957.png>)
+
+![alt text](<Screenshot 2025-04-21 224922.png>)
 
 
 ### 25. `sort` Command
@@ -326,7 +350,8 @@ sort <file_name>
 ```
 
 **Output:**
-![alt text](<Screenshot 2025-04-21 225009.png>)
+
+![alt text](<Screenshot 2025-04-21 224957.png>)
 
 
 ### 26. `cal` Command
@@ -339,7 +364,8 @@ cal
 ```
 
 **Output:**
-![alt text](<Screenshot 2025-04-21 225030.png>)
+
+![alt text](<Screenshot 2025-04-21 225009.png>)
 
 
 ### 27. `clear` Command
@@ -352,7 +378,8 @@ clear
 ```
 
 **Output:**
-![alt text](<Screenshot 2025-04-21 225333.png>)
+
+![alt text](<Screenshot 2025-04-21 225030.png>)
 
 
 ### 28. `mail` Command
@@ -365,7 +392,8 @@ mail
 ```
 
 **Output:**
-![alt text](<Screenshot 2025-04-21 225359.png>)
+
+![alt text](<Screenshot 2025-04-21 225333.png>)
 
 
 ### 29. `df` Command
@@ -379,6 +407,9 @@ df
 
 **Output:**
 
+![alt text](<Screenshot 2025-04-21 225359.png>)
+
+
 ### 30. `find` Command
 
 The `find` command is used to search for files in a directory hierarchy.
@@ -389,6 +420,7 @@ find <directory> -name <file_name>
 ```
 
 **Output:**
+
 ![alt text](<Screenshot 2025-04-21 225448.png>)
 
 
